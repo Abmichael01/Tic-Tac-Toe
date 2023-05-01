@@ -55,8 +55,8 @@ function matchBoxes(a){
     match(6, 7, 8, 'O')
     match(0, 3, 6, 'O')
     match(2, 5, 8, 'O')
-    match(0, 5, 8, 'O')
-    match(2, 5, 6, 'O')
+    match(0, 4, 8, 'O')
+    match(2, 4, 6, 'O')
     match(1, 4, 7, 'O')
     
 }
